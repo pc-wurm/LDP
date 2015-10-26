@@ -331,7 +331,7 @@ Variables
 		hello
 		echo $HELLO
 	</verb></tscreen>
-	<p> This example should be enought to show how to use a local variable. 
+	<p> This example should be enough to show how to use a local variable. 
 	</sect1>
  
 </sect>
@@ -1150,7 +1150,7 @@ About the document
 	<p> Added the section usefull commands re-writen by Kess.
 	<p> More corrections and suggestions incorporated.
 	<p> Samples added on string comparison.
-	<p> v0.8 droped the versioning, I guess the date is enought. 
+	<p> v0.8 droped the versioning, I guess the date is enough. 
 	<p> v0.7 More corrections and some old TO-DO sections written.
 	<p> v0.6 Minor corrections.
 	<p> v0.5 Added the redirection section.
